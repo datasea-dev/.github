@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./image/background.jpg" alt="Datasea DEV Banner" width="100%" onerror="this.style.display='none'"/>
+  <img src="../image/background.jpg" alt="Datasea DEV Banner" width="100%" onerror="this.style.display='none'"/>
 </div>
 
 # Hi there, we are Datasea DEV! 👋🌊
